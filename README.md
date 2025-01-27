@@ -1,8 +1,14 @@
-# Covid_classfication
+![image](https://github.com/user-attachments/assets/280d0401-d846-424c-aba2-b6e8ae068633)![image](https://github.com/user-attachments/assets/92a05e03-af99-4a8c-9e5a-5f8dade90d0c)![image](https://github.com/user-attachments/assets/de079744-4a0a-4498-8170-46f6aab6747b)# Covid_classfication
 Multiclass Image Classification (X-ray)
 1. Overview
 This repository provides a straightforward example of multiclass image classification. The goal of the project is to classify X-ray images into three categories based on lung condition: COVID-19, Viral Pneumonia, and Normal. The dataset used for this task is available on Kaggle.
 The project leverages the VGG-16 pre-trained model, fine-tuned for this specific classification task, and demonstrates promising results.
+
+
+![image](https://github.com/user-attachments/assets/6d571972-e309-4857-8227-572f3951427e)
+
+
+
 
 2. Model Architecture
 The model is based on the VGG-16 architecture, which is pre-trained on ImageNet. To adapt it for this specific task, additional layers were added to the base model. Below is an overview of the modified architecture:
@@ -46,5 +52,5 @@ Transfer Learning with Fine-Tuning:
 Unfreeze and fine-tune some of the deeper layers of the pre-trained model to better adapt it to the specific dataset.
 By implementing these improvements, the model's performance can be further enhanced, making it more robust and reliable for real-world applications.
 
-![Uploading image.png…]()
+
 
