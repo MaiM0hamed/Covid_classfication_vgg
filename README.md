@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/280d0401-d846-424c-aba2-b6e8ae068633)![image](https://github.com/user-attachments/assets/92a05e03-af99-4a8c-9e5a-5f8dade90d0c)![image](https://github.com/user-attachments/assets/de079744-4a0a-4498-8170-46f6aab6747b)# Covid_classfication
+
 Multiclass Image Classification (X-ray)
 1. Overview
-This repository provides a straightforward example of multiclass image classification. The goal of the project is to classify X-ray images into three categories based on lung condition: COVID-19, Viral Pneumonia, and Normal. The dataset used for this task is available on Kaggle.
+This repository provides a straightforward example of multiclass image classification. The goal of the project is to classify X-ray images into three categories based on lung condition: COVID-19, Viral Pneumonia, and Normal. The dataset used for this task is available on Kaggle. this link of data https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
 The project leverages the VGG-16 pre-trained model, fine-tuned for this specific classification task, and demonstrates promising results.
 
 
